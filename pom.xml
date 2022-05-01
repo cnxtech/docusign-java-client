@@ -261,7 +261,7 @@
     <dependency>
 	  <groupId>org.bouncycastle</groupId>
 	  <artifactId>bcprov-jdk15on</artifactId>
-	  <version>1.60</version>
+	  <version>1.67</version>
 	</dependency>
 
     <!-- Base64 encoding that works in both JVM and Android -->
